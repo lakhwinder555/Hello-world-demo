@@ -1,2 +1,2 @@
 print ("Hello Wrold123")
-print ("Welcome to dits")
+print ("Welcome to Dits")
